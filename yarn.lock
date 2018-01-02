@@ -2960,6 +2960,20 @@ media-typer@0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/media-typer/-/media-typer-0.3.0.tgz#8710d7af0aa626f8fffa1ce00168545263255748"
 
+meepo-base@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/meepo-base/-/meepo-base-1.0.7.tgz#83ff92d454637dae22041d15a9a17cb72c5eb3cd"
+  dependencies:
+    "@angular/common" "5.2.0-beta.1"
+    "@angular/core" "5.2.0-beta.1"
+    "@angular/forms" "5.2.0-beta.1"
+    "@angular/platform-browser" "5.2.0-beta.1"
+    "@angular/router" "^5.1.2"
+    meepo-store "^1.0.4"
+    reflect-metadata "^0.1.10"
+    rxjs "^5.5.5"
+    zone.js "0.8.4"
+
 meepo-store@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/meepo-store/-/meepo-store-1.0.4.tgz#57c71765f2d8cfd9098d46faa3167910d6f5f045"

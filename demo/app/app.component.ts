@@ -2,10 +2,9 @@ import {
   Component, OnInit, ChangeDetectionStrategy,
   ViewChild, ElementRef, ChangeDetectorRef
 } from '@angular/core';
-import { MeepoCache } from '../../src/app/app';
 import { StoreService } from 'meepo-store';
 import { Title } from '@angular/platform-browser';
-
+import { MeepoCache } from 'meepo-base';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
