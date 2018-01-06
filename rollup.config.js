@@ -230,6 +230,10 @@ let globals = {
     'rxjs/operators/takeUntil': 'Rx.Observable.prototype',
     'rxjs/operators/throttleTime': 'Rx.Observable.prototype',
     'rxjs/operators/tap': 'Rx.Observable.prototype',
+
+    'meepo-base': 'meepo-base',
+    'meepo-store': 'meepo-store',
+    
 };
 
 let plugins = [
